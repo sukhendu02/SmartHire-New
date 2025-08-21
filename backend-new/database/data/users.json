@@ -1,0 +1,1053 @@
+[
+  {
+    "id": 1754221685824,
+    "email": "test@gmail.com",
+    "password": "$2a$12$I6h66A3Q026CsAFHZPBznuw6ATTBMdIe6AE3WVYs1ukAeGGC2/zOy",
+    "firstName": "John",
+    "lastName": "Doe",
+    "userType": "jobSeeker",
+    "phone": "+1-555-0123",
+    "address": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "dateOfBirth": "1990-05-15",
+    "currentTitle": "Senior Software Engineer",
+    "currentCompany": "Tech Solutions Inc.",
+    "experience": "5 years",
+    "industry": "Information Technology",
+    "summary": "Experienced software engineer with expertise in full-stack development and cloud technologies.",
+    "education": [
+      {
+        "id": 1,
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of Technology",
+        "year": "2018",
+        "cgpa": "8.5"
+      }
+    ],
+    "technicalSkills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Team Work"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "E-commerce Platform",
+        "description": "Built a full-stack e-commerce platform with React frontend and Node.js backend",
+        "technologies": "React, Node.js, MongoDB, Stripe API",
+        "link": "https://github.com/johndoe/ecommerce"
+      }
+    ],
+    "preferredRoles": [
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Software Engineer"
+    ],
+    "preferredLocations": [
+      "New York",
+      "San Francisco",
+      "Remote"
+    ],
+    "jobType": "full-time",
+    "expectedSalary": "$90,000 - $120,000",
+    "noticePeriod": "2 weeks",
+    "hobbies": [
+      "Photography",
+      "Reading",
+      "Hiking",
+      "Gaming"
+    ],
+    "createdAt": "2025-08-03T11:48:05.824Z",
+    "updatedAt": "2025-08-06T06:58:44.475Z",
+    "savedJobs": [
+      1754233777036,
+      1754236283727
+    ],
+    "resumePath": "/api/users/1754221685824/resume/resume_1754221685824_1754463524471.pdf"
+  },
+  {
+    "id": 1754221952490,
+    "email": "test2@gmail.com",
+    "password": "$2a$12$b5Y44VBxSpxZSOX1c8b7seucvGH.QpGVnJ3OdqXcFcOU.AfY2RAle",
+    "firstName": "test",
+    "lastName": "user",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-03T11:52:32.490Z",
+    "updatedAt": "2025-08-03T18:55:08.391Z",
+    "resumePath": "/api/users/1754221952490/resume/resume_1754221952490_1754245391172.pdf",
+    "savedJobs": [
+      1754240001001
+    ]
+  },
+  {
+    "id": 1754222958146,
+    "email": "test3@gmail.com",
+    "password": "$2a$12$w3kS2NwklGUItwAdn.olSOm.g.iwY2p.i7lUWUpbeo2uz.P8Jcl3K",
+    "firstName": "test",
+    "lastName": "User",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-03T12:09:18.146Z",
+    "updatedAt": "2025-08-05T21:32:23.024Z",
+    "savedJobs": []
+  },
+  {
+    "id": 1754232509597,
+    "email": "vibecoding@company.com",
+    "password": "$2a$12$ck49sC9SWB7VH9mPx67jTevHJIvnCSPYeU7lrMlUOjXE45pjIh7Wi",
+    "firstName": "Sukhendu",
+    "lastName": "Mandal",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-03T14:48:29.597Z",
+    "updatedAt": "2025-08-03T14:48:29.597Z"
+  },
+  {
+    "id": 1754238167556,
+    "email": "firstuser@vibecoding.com",
+    "password": "$2a$12$0Ky6kTJk/7Aag099oatE4uCoxC4BX.7aEyDknQlikMi1lO4iR9mdG",
+    "firstName": "first ",
+    "lastName": "user ",
+    "userType": "company",
+    "companyId": 1754232612015,
+    "createdAt": "2025-08-03T16:22:47.556Z",
+    "updatedAt": "2025-08-03T16:22:47.556Z"
+  },
+  {
+    "id": 1754238337442,
+    "email": "testuser5@vibecoding.com",
+    "password": "$2a$12$qziNO8OifuyCbPeQHL2rJ.TWEcSuXxTrwnzXMl3kdsHdrt4Ix5JSi",
+    "firstName": "test",
+    "lastName": "user5",
+    "userType": "company",
+    "companyId": 1754232612015,
+    "createdAt": "2025-08-03T16:25:37.442Z",
+    "updatedAt": "2025-08-03T16:25:37.442Z"
+  },
+  {
+    "id": 1754239194649,
+    "email": "user@global.com",
+    "password": "$2a$12$TwzN1NAvuKzJqY1/pNkmLe/JX8Zkyio0HiMOWFa6cIgxPoc6REJbC",
+    "firstName": "test",
+    "lastName": "user",
+    "userType": "company",
+    "companyId": 1754239101370,
+    "role": "team-lead",
+    "createdAt": "2025-08-03T16:39:54.649Z",
+    "updatedAt": "2025-08-03T16:39:54.649Z"
+  },
+  {
+    "id": 1754301962484,
+    "email": "test@job.com",
+    "password": "$2a$12$ycEPizoJ9xcIQyk0W6dzi.f/2sifMo/Q9a1GJKfPBvNFotoMeJfm.",
+    "firstName": "Test",
+    "lastName": "New",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-04T10:06:02.484Z",
+    "updatedAt": "2025-08-04T10:06:02.484Z"
+  },
+  {
+    "id": 1754304699238,
+    "email": "second@vibecoding.com",
+    "password": "$2a$12$4zBxVRu6rZQd4vpLLvSF4ON0b3ErwLAtJvUla35Esg8VihmOkhY/m",
+    "firstName": "second",
+    "lastName": "user",
+    "userType": "company",
+    "companyId": 1754232612015,
+    "role": "manager",
+    "createdAt": "2025-08-04T10:51:39.238Z",
+    "updatedAt": "2025-08-04T10:51:39.238Z"
+  },
+  {
+    "id": 1754420520270,
+    "email": "smartscore.test.1754420519769@example.com",
+    "password": "$2a$12$RinqMknQPNB7McriKSU/4O/Mw.X9Tg.RuljeDC143EpkMboGMa4ce",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:02:00.270Z",
+    "updatedAt": "2025-08-05T19:02:00.270Z"
+  },
+  {
+    "id": 1754420557285,
+    "email": "smartscore.test.1754420556726@example.com",
+    "password": "$2a$12$jq2YyFlAYfWdgOAt8gikdOvCHvLhOLCxrOaKvMoIW48a3SXKMa4Su",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:02:37.285Z",
+    "updatedAt": "2025-08-05T19:02:37.285Z"
+  },
+  {
+    "id": 1754421028193,
+    "email": "smartscore.test.1754421027668@example.com",
+    "password": "$2a$12$TbfJzuVPE5HWQITye4nIO.Fg9oNY1V6u5F9p8lk59HPlCohboM68e",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:10:28.193Z",
+    "updatedAt": "2025-08-05T19:10:28.193Z"
+  },
+  {
+    "id": 1754421292485,
+    "email": "smarttest1754421292131@test.com",
+    "password": "$2a$12$1NBaiPUXu4p91KHOXt8TZeV.zVoGcX12VHlIdVOdheOXFe4yEeqmS",
+    "firstName": "Smart",
+    "lastName": "ScoreTest",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:14:52.485Z",
+    "updatedAt": "2025-08-05T19:14:52.485Z"
+  },
+  {
+    "id": 1754421687155,
+    "email": "smarttest1754421686626@test.com",
+    "password": "$2a$12$PwmYYbCP4GTvcvp4EfvnQuW8qW6l5O2Lt07Ty3FLo4JBWz7TcU9xS",
+    "firstName": "Smart",
+    "lastName": "ScoreTest",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:21:27.155Z",
+    "updatedAt": "2025-08-05T19:21:27.155Z"
+  },
+  {
+    "id": 1754422329998,
+    "email": "smarttest@example.com",
+    "password": "$2a$12$JCviR732FjOSgnPJca2zXefGVaQJJMqv9WoQC4SHER1dzP6KWxac6",
+    "firstName": "Smart",
+    "lastName": "Test",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T19:32:09.998Z",
+    "updatedAt": "2025-08-05T19:32:09.998Z"
+  },
+  {
+    "id": 1754428106142,
+    "email": "smarttest1754428105865@example.com",
+    "password": "$2a$12$x784OFkOKAd5P/nFQ9UEo.VOJaUIiXMDLrpepZtopoLIVitDoiQ2m",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T21:08:26.142Z",
+    "updatedAt": "2025-08-05T21:08:26.143Z"
+  },
+  {
+    "id": 1754428133514,
+    "email": "smarttest1754428133221@example.com",
+    "password": "$2a$12$/DL1LEBoQzuiTwzjPlm5n.soRL1w3kcdheZVhUUWquLZlNILd.Kom",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T21:08:53.514Z",
+    "updatedAt": "2025-08-05T21:08:53.514Z"
+  },
+  {
+    "id": 1754429708106,
+    "email": "test10@gmail.com",
+    "password": "$2a$12$fB3an8fL0nFatLZhpPf1HuqCgz2JU1GQ.ldi5opsL5WbzX.U1mGPi",
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "userType": "jobSeeker",
+    "phone": "+1-555-0110",
+    "address": "456 Tech Avenue",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "dateOfBirth": "1998-03-20",
+    "currentTitle": "Junior Java Developer",
+    "currentCompany": "StartupTech Solutions",
+    "experience": "1 year",
+    "industry": "Information Technology",
+    "summary": "Passionate junior Java developer with 1 year of experience in enterprise application development. Eager to learn and contribute to challenging projects.",
+    "education": [
+      {
+        "id": 1,
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "California State University",
+        "year": "2023",
+        "cgpa": "8.2"
+      }
+    ],
+    "technicalSkills": [
+      "Java",
+      "Spring Boot",
+      "Spring Framework",
+      "MySQL",
+      "Git",
+      "Maven",
+      "JUnit",
+      "REST APIs",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Quick Learning",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "Employee Management System",
+        "description": "Built a web-based employee management system using Spring Boot and MySQL",
+        "technologies": "Java, Spring Boot, MySQL, Thymeleaf, Bootstrap",
+        "link": "https://github.com/alexj/employee-management"
+      },
+      {
+        "id": 2,
+        "name": "Library Management API",
+        "description": "RESTful API for library book management with CRUD operations",
+        "technologies": "Java, Spring Boot, JPA, H2 Database",
+        "link": "https://github.com/alexj/library-api"
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "Oracle Certified Associate, Java SE 8 Programmer",
+        "issuer": "Oracle",
+        "year": "2023"
+      }
+    ],
+    "location": "San Francisco, CA",
+    "expectedSalary": 65000,
+    "preferredIndustries": [
+      "Information Technology",
+      "Software Development"
+    ],
+    "jobPreferences": {
+      "jobTypes": [
+        "full-time",
+        "internship"
+      ],
+      "companySize": "startup",
+      "workMode": "hybrid"
+    },
+    "createdAt": "2025-08-05T21:35:08.106Z",
+    "updatedAt": "2025-08-05T22:06:27.625Z",
+    "savedJobs": [
+      1754233777036
+    ]
+  },
+  {
+    "id": 1754429729269,
+    "email": "test11@gmail.com",
+    "password": "$2a$12$gNTlNzM8qSrSCkWmFDGExeUecqgF4vB5IaJO6mHPr4EUVMeVrg0Ru",
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "userType": "jobSeeker",
+    "phone": "+1-555-0111",
+    "address": "789 Innovation Street",
+    "city": "Austin",
+    "state": "TX",
+    "country": "India",
+    "dateOfBirth": "1993-07-15",
+    "currentTitle": "Senior MERN Stack Developer",
+    "currentCompany": "TechFlow Inc.",
+    "experience": "5 years",
+    "industry": "Information Technology",
+    "summary": "Experienced MERN stack developer with 5 years of expertise in building scalable web applications. Specialized in React, Node.js, and modern JavaScript frameworks.",
+    "education": [
+      {
+        "id": 1,
+        "degree": "Bachelor of Science in Software Engineering",
+        "institution": "University of Texas at Austin",
+        "year": "2020",
+        "cgpa": "8.7"
+      }
+    ],
+    "technicalSkills": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Redux",
+      "Next.js",
+      "GraphQL",
+      "REST APIs",
+      "AWS",
+      "Docker",
+      "Git",
+      "Jest",
+      "HTML5",
+      "CSS3",
+      "SASS"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Project Management",
+      "Mentoring",
+      "Problem Solving",
+      "Communication",
+      "Team Collaboration"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "E-commerce Platform",
+        "description": "Full-stack e-commerce platform with React frontend, Node.js backend, and MongoDB database",
+        "technologies": "React, Node.js, Express, MongoDB, Redux, Stripe API",
+        "link": "https://github.com/sarahw/ecommerce-platform"
+      },
+      {
+        "id": 2,
+        "name": "Social Media Dashboard",
+        "description": "Real-time social media analytics dashboard with GraphQL API",
+        "technologies": "React, GraphQL, Node.js, MongoDB, Chart.js",
+        "link": "https://github.com/sarahw/social-dashboard"
+      },
+      {
+        "id": 3,
+        "name": "Task Management App",
+        "description": "Collaborative task management application with real-time updates",
+        "technologies": "Next.js, Socket.io, Node.js, MongoDB, TypeScript",
+        "link": "https://github.com/sarahw/task-manager"
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "AWS Certified Developer - Associate",
+        "issuer": "Amazon Web Services",
+        "year": "2023"
+      },
+      {
+        "id": 2,
+        "name": "MongoDB Certified Developer",
+        "issuer": "MongoDB University",
+        "year": "2022"
+      }
+    ],
+    "location": "Austin, TX",
+    "expectedSalary": 95000,
+    "preferredIndustries": [
+      "Information Technology",
+      "E-commerce",
+      "FinTech"
+    ],
+    "jobPreferences": {
+      "jobTypes": [
+        "full-time"
+      ],
+      "companySize": "mid-size",
+      "workMode": "remote"
+    },
+    "createdAt": "2025-08-05T21:35:29.269Z",
+    "updatedAt": "2025-08-12T17:23:26.479Z",
+    "savedJobs": [
+      1754240002002,
+      1754400000002,
+      1754240001001,
+      1754240004004,
+      1754240005005,
+      1754235816790,
+      1754233777036,
+      1754240003003,
+      1754308799069,
+      1754500000001,
+      1754500000004
+    ],
+    "resumePath": "/api/users/1754429729269/resume/resume_1754429729269_1754495058753.pdf",
+    "preferredRoles": [],
+    "preferredLocations": [
+      "Pune",
+      "Mumbai",
+      "Delhi",
+      "Noida",
+      "Gurugram",
+      "Indore"
+    ],
+    "jobType": "full-time",
+    "noticePeriod": "",
+    "hobbies": [
+      "reading books",
+      "trave"
+    ]
+  },
+  {
+    "id": 1754430877529,
+    "email": "smartscore.test.1754430877248@example.com",
+    "password": "$2a$12$XSGUuw.hnD5AcU33Ox3MMuTir9FjY0qh5MIzjMalMriff00YAo11a",
+    "firstName": "Smart",
+    "lastName": "Score",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T21:54:37.529Z",
+    "updatedAt": "2025-08-05T21:54:37.529Z"
+  },
+  {
+    "id": 1754431727630,
+    "email": "test12@gmail.com",
+    "password": "$2a$12$/RYKA04zIproyPfDgn2ClutcUq.TRIEIB79G4iAdf5/O7yBlEZot2",
+    "firstName": "test",
+    "lastName": "user",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:08:47.630Z",
+    "updatedAt": "2025-08-06T07:16:04.727Z",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": "",
+    "dateOfBirth": "",
+    "currentTitle": "",
+    "currentCompany": "",
+    "experience": "",
+    "industry": "",
+    "summary": "",
+    "education": [
+      {
+        "id": 1,
+        "degree": "",
+        "institution": "",
+        "year": "",
+        "cgpa": ""
+      }
+    ],
+    "technicalSkills": [],
+    "softSkills": [],
+    "projects": [
+      {
+        "id": 1,
+        "name": "",
+        "description": "",
+        "technologies": "",
+        "link": ""
+      }
+    ],
+    "preferredRoles": [],
+    "preferredLocations": [],
+    "jobType": "",
+    "expectedSalary": "",
+    "noticePeriod": "",
+    "hobbies": [],
+    "resumePath": "/api/users/1754431727630/resume/resume_1754431727630_1754464562803.pdf"
+  },
+  {
+    "id": 1754432687114,
+    "email": "smartscore.test.1754432686821@example.com",
+    "password": "$2a$12$UviybEcXEvHpngUx4Ysn8umxP9V77mKMaezpXKJWGRJ7EoD6yInUa",
+    "firstName": "Test",
+    "lastName": "User",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:24:47.114Z",
+    "updatedAt": "2025-08-05T22:24:47.114Z"
+  },
+  {
+    "id": 1754432738999,
+    "email": "smartscore.test.1754432738692@example.com",
+    "password": "$2a$12$PKUdeltuanb98mB4OO2wNemTEy0/dI3g4eeUxwDoskGNkSC1XSNkW",
+    "firstName": "Test",
+    "lastName": "User",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:25:39.000Z",
+    "updatedAt": "2025-08-05T22:25:39.000Z"
+  },
+  {
+    "id": 1754433333910,
+    "email": "testuser@gmail.com",
+    "password": "$2a$12$xV1aVH3rbH.fM8svYG6lrOhRE..zauWSZDqqww4Gz3Ogfm70AZ64K",
+    "firstName": "Test",
+    "lastName": "User",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:35:33.910Z",
+    "updatedAt": "2025-08-05T22:35:33.910Z"
+  },
+  {
+    "id": 1754433600886,
+    "email": "finaltest@gmail.com",
+    "password": "$2a$12$RvVXPIYlHvRscl.LiUKh4.q1C7gjvVY2fkYZNMf70Orj72zeDzcQW",
+    "firstName": "Final",
+    "lastName": "Test",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:40:00.886Z",
+    "updatedAt": "2025-08-05T22:40:00.886Z"
+  },
+  {
+    "id": 1754434053877,
+    "email": "statustest@gmail.com",
+    "password": "$2a$12$AknRZPwIz/GQPlC7OM4dmOHYGS1GNtprBTWEKDEZvAlxjA27d2.Va",
+    "firstName": "Status",
+    "lastName": "Test",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-05T22:47:33.877Z",
+    "updatedAt": "2025-08-05T22:47:33.877Z"
+  },
+  {
+    "id": 1754493968189,
+    "email": "john@codegradient.com",
+    "password": "$2a$12$XwJ.mwL31RMuoo51mHvHhOhpmom6jmWLsahlf82FNjcqJWWJgYZze",
+    "firstName": "John ",
+    "lastName": "Doe ",
+    "userType": "company",
+    "companyId": 1754493595104,
+    "role": "hr-manager",
+    "createdAt": "2025-08-06T15:26:08.189Z",
+    "updatedAt": "2025-08-06T15:26:08.189Z"
+  },
+  {
+    "id": 1754494075016,
+    "email": "enduser@gmail.com",
+    "password": "$2a$12$epv0kSh/ePrmEM4NLej2xuQ5I/UhEFCgzHnnFvBXYwIiS.rZiC356",
+    "firstName": "End ",
+    "lastName": "User",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-06T15:27:55.016Z",
+    "updatedAt": "2025-08-06T15:27:55.016Z"
+  },
+  {
+    "id": 1754494162266,
+    "email": "monica@gmail.com",
+    "password": "$2a$12$rjv/nzs5GyKXlOIfiiBlcelF595dpnnXztqlWnZheD/GhJ3TuWyxS",
+    "firstName": "Monica",
+    "lastName": "Williams",
+    "userType": "jobSeeker",
+    "phone": "+91-98765-43210",
+    "address": "456 Tech Avenue, Koramangala",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "dateOfBirth": "1992-03-15",
+    "currentTitle": "Java Developer",
+    "currentCompany": "Infosys Technologies",
+    "experience": "5 years",
+    "industry": "Information Technology",
+    "summary": "Dedicated Java Developer with 4 years of experience in developing enterprise-level applications using Java, Spring Framework, and microservices architecture. Passionate about writing clean, efficient code and solving complex business problems. Strong background in full-stack development with expertise in both backend and frontend technologies.",
+    "education": [
+      {
+        "id": 1,
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "RV College of Engineering, Bangalore",
+        "year": "2020",
+        "cgpa": "8.2"
+      }
+    ],
+    "technicalSkills": [
+      "Java",
+      "Spring Boot",
+      "Spring MVC",
+      "Spring Security",
+      "Hibernate",
+      "JPA",
+      "REST APIs",
+      "Microservices",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Maven",
+      "Gradle",
+      "Git",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "JUnit",
+      "Mockito",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "React"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication",
+      "Leadership",
+      "Analytical Thinking",
+      "Time Management",
+      "Adaptability",
+      "Critical Thinking"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "E-Commerce Microservices Platform",
+        "description": "Developed a scalable e-commerce platform using microservices architecture with Spring Boot. Implemented user authentication, product catalog, order management, and payment processing services.",
+        "technologies": "Java, Spring Boot, Spring Security, MySQL, Docker, Kubernetes, AWS",
+        "link": "https://github.com/monica-williams/ecommerce-microservices"
+      },
+      {
+        "id": 2,
+        "name": "Banking Management System",
+        "description": "Built a comprehensive banking application with features like account management, transaction processing, loan management, and reporting using Java and Spring Framework.",
+        "technologies": "Java, Spring MVC, Hibernate, MySQL, HTML, CSS, JavaScript",
+        "link": "https://github.com/monica-williams/banking-system"
+      },
+      {
+        "id": 3,
+        "name": "Task Management REST API",
+        "description": "Created a RESTful API for task management application with user authentication, CRUD operations, and role-based access control.",
+        "technologies": "Java, Spring Boot, JPA, PostgreSQL, JWT, Maven",
+        "link": "https://github.com/monica-williams/task-management-api"
+      }
+    ],
+    "workExperience": [
+      {
+        "id": 1,
+        "position": "Java Developer",
+        "company": "Infosys Technologies",
+        "startDate": "2022-07-01",
+        "endDate": "Present",
+        "description": "Working on enterprise Java applications using Spring Boot and microservices. Responsible for developing REST APIs, implementing business logic, and database integration. Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "achievements": [
+          "Improved application performance by 30% through code optimization",
+          "Led a team of 3 junior developers on a critical project",
+          "Implemented automated testing that reduced bugs by 40%"
+        ]
+      },
+      {
+        "id": 2,
+        "position": "Associate Software Engineer",
+        "company": "TCS",
+        "startDate": "2020-08-01",
+        "endDate": "2022-06-30",
+        "description": "Started career as a trainee and quickly progressed to developing Java-based web applications. Gained experience in full-stack development using Java, Spring, and frontend technologies.",
+        "achievements": [
+          "Successfully completed training program with distinction",
+          "Developed 5+ web applications during tenure",
+          "Received 'Best Performer' award in 2021"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "Oracle Certified Professional Java SE 11 Developer",
+        "issuer": "Oracle",
+        "dateObtained": "2023-05-15",
+        "credentialId": "OCP-JAVA-2023-001234"
+      },
+      {
+        "id": 2,
+        "name": "Spring Professional Certification",
+        "issuer": "VMware",
+        "dateObtained": "2023-09-20",
+        "credentialId": "SPR-2023-005678"
+      },
+      {
+        "id": 3,
+        "name": "AWS Certified Developer - Associate",
+        "issuer": "Amazon Web Services",
+        "dateObtained": "2024-01-10",
+        "credentialId": "AWS-DEV-2024-009876"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Kannada",
+        "proficiency": "Conversational"
+      }
+    ],
+    "achievements": [
+      "Employee of the Month - October 2023 at Infosys",
+      "Led successful migration of monolithic application to microservices",
+      "Mentored 5+ junior developers and conducted technical workshops",
+      "Published technical blog on Spring Boot best practices with 10K+ views"
+    ],
+    "interests": [
+      "Open Source Contribution",
+      "Tech Blogging",
+      "Competitive Programming",
+      "Machine Learning",
+      "Cloud Computing",
+      "Reading Tech Books"
+    ],
+    "expectedSalary": "1200000",
+    "noticePeriod": "2 months",
+    "preferredLocation": [
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "linkedinProfile": "https://linkedin.com/in/monica-williams-java-dev",
+    "githubProfile": "https://github.com/monica-williams",
+    "personalWebsite": "https://monica-williams.dev",
+    "createdAt": "2025-08-06T15:29:22.266Z",
+    "updatedAt": "2025-08-06T15:42:08.757Z",
+    "resumePath": "/api/users/1754494162266/resume/resume_1754494162266_1754494188852.pdf",
+    "preferredRoles": [],
+    "preferredLocations": [],
+    "jobType": "",
+    "hobbies": [],
+    "savedJobs": [
+      1754500000002
+    ]
+  },
+  {
+    "id": 1754495871355,
+    "email": "vibecoder@gmail.com",
+    "password": "$2a$12$FXBxC7q6umoAe/sNYVdUgOAlhYzyxsFZjAvgikrcu/I8oWV9YPU7S",
+    "firstName": "Vikas",
+    "lastName": "Sharma",
+    "userType": "jobSeeker",
+    "phone": "+91-98765-54321",
+    "address": "789 Data Valley, Electronic City",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "dateOfBirth": "1990-06-20",
+    "currentTitle": "Senior Data Engineer",
+    "currentCompany": "Tech Innovations Pvt Ltd",
+    "experience": "5 years",
+    "industry": "Information Technology",
+    "summary": "Experienced Data Engineer with 5 years of expertise in designing and building scalable data pipelines, data warehouses, and big data solutions. Proficient in cloud platforms, ETL processes, and modern data engineering tools. Passionate about transforming raw data into actionable insights and building robust data infrastructure for enterprise-scale applications.",
+    "education": [
+      {
+        "id": 1,
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "institution": "Bangalore Institute of Technology",
+        "year": "2019",
+        "cgpa": "8.5"
+      },
+      {
+        "id": 2,
+        "degree": "Master of Technology in Data Science",
+        "institution": "Indian Institute of Science, Bangalore",
+        "year": "2021",
+        "cgpa": "8.8"
+      }
+    ],
+    "technicalSkills": [
+      "Python",
+      "Java",
+      "Scala",
+      "Apache Spark",
+      "Apache Kafka",
+      "Hadoop",
+      "AWS",
+      "Azure",
+      "GCP",
+      "SQL",
+      "NoSQL",
+      "MongoDB",
+      "Cassandra",
+      "Apache Airflow",
+      "Luigi",
+      "Data Warehousing",
+      "ETL/ELT",
+      "Docker",
+      "Kubernetes",
+      "Apache Beam",
+      "Databricks",
+      "Snowflake",
+      "Redshift",
+      "BigQuery",
+      "Data Modeling",
+      "Schema Design",
+      "Git",
+      "Jenkins",
+      "CI/CD",
+      "Terraform",
+      "Data Quality",
+      "Data Governance"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Communication",
+      "Leadership",
+      "Project Management",
+      "Critical Thinking",
+      "Attention to Detail",
+      "Time Management",
+      "Adaptability"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "Real-time Data Pipeline for E-commerce Analytics",
+        "description": "Built end-to-end real-time data pipeline using Apache Kafka, Spark Streaming, and AWS services to process millions of e-commerce events daily. Implemented data quality checks and monitoring dashboards.",
+        "technologies": "Apache Kafka, Spark Streaming, AWS Kinesis, S3, Redshift, Python, Airflow",
+        "link": "https://github.com/vibecoder/ecommerce-data-pipeline"
+      },
+      {
+        "id": 2,
+        "name": "Multi-Cloud Data Lake Architecture",
+        "description": "Designed and implemented a multi-cloud data lake solution spanning AWS and Azure, enabling unified analytics across multiple data sources with automated ETL processes.",
+        "technologies": "AWS S3, Azure Data Lake, Apache Spark, Databricks, Python, Terraform",
+        "link": "https://github.com/vibecoder/multi-cloud-datalake"
+      },
+      {
+        "id": 3,
+        "name": "Automated Data Quality Framework",
+        "description": "Developed a comprehensive data quality framework with automated validation rules, anomaly detection, and alerting mechanisms for enterprise data pipelines.",
+        "technologies": "Python, Apache Airflow, Great Expectations, Prometheus, Grafana",
+        "link": "https://github.com/vibecoder/data-quality-framework"
+      }
+    ],
+    "workExperience": [
+      {
+        "id": 1,
+        "position": "Senior Data Engineer",
+        "company": "Tech Innovations Pvt Ltd",
+        "startDate": "2022-03-01",
+        "endDate": "Present",
+        "description": "Leading data engineering initiatives for multiple products. Responsible for designing scalable data architectures, building ETL pipelines, and ensuring data quality across the organization. Managing a team of 3 junior data engineers.",
+        "achievements": [
+          "Designed and implemented data lake architecture reducing data processing time by 60%",
+          "Built real-time streaming pipelines processing 10M+ events daily",
+          "Led migration from on-premise to cloud-native data solutions",
+          "Reduced data pipeline failures by 80% through improved monitoring and alerting"
+        ]
+      },
+      {
+        "id": 2,
+        "position": "Data Engineer",
+        "company": "DataFlow Solutions",
+        "startDate": "2020-07-01",
+        "endDate": "2022-02-28",
+        "description": "Developed and maintained ETL pipelines for various clients. Worked extensively with big data technologies and cloud platforms. Collaborated with data scientists and analysts to deliver data solutions.",
+        "achievements": [
+          "Built 15+ ETL pipelines serving critical business functions",
+          "Optimized data processing workflows reducing costs by 40%",
+          "Implemented data quality monitoring across all data sources",
+          "Successfully migrated legacy systems to modern data stack"
+        ]
+      },
+      {
+        "id": 3,
+        "position": "Junior Data Engineer",
+        "company": "StartupData Inc",
+        "startDate": "2019-08-01",
+        "endDate": "2020-06-30",
+        "description": "Started career working on data engineering projects. Gained hands-on experience with data pipeline development, database optimization, and cloud technologies.",
+        "achievements": [
+          "Developed first production data pipeline processing 1M+ records daily",
+          "Automated manual data processes saving 20+ hours weekly",
+          "Completed AWS and Azure data engineering certifications"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "name": "AWS Certified Data Engineer - Associate",
+        "issuer": "Amazon Web Services",
+        "dateObtained": "2023-04-15",
+        "credentialId": "AWS-DE-2023-001234"
+      },
+      {
+        "id": 2,
+        "name": "Azure Data Engineer Associate",
+        "issuer": "Microsoft",
+        "dateObtained": "2023-07-20",
+        "credentialId": "AZ-DE-2023-005678"
+      },
+      {
+        "id": 3,
+        "name": "Google Cloud Professional Data Engineer",
+        "issuer": "Google Cloud",
+        "dateObtained": "2024-01-10",
+        "credentialId": "GCP-PDE-2024-009876"
+      },
+      {
+        "id": 4,
+        "name": "Databricks Certified Data Engineer Professional",
+        "issuer": "Databricks",
+        "dateObtained": "2023-10-05",
+        "credentialId": "DBR-DE-2023-112233"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Kannada",
+        "proficiency": "Conversational"
+      }
+    ],
+    "achievements": [
+      "Led successful migration of 50+ data sources to cloud-native architecture",
+      "Designed data architecture for startup that scaled to handle 100M+ daily events",
+      "Speaking at Data Engineering conferences and meetups",
+      "Contributed to open-source data engineering tools with 1000+ GitHub stars",
+      "Mentored 10+ junior data engineers and conducted technical workshops"
+    ],
+    "interests": [
+      "Big Data Technologies",
+      "Cloud Computing",
+      "Open Source Contribution",
+      "Data Architecture",
+      "Machine Learning Operations",
+      "Tech Blogging",
+      "Hiking",
+      "Photography"
+    ],
+    "expectedSalary": "1600000",
+    "noticePeriod": "2 months",
+    "preferredLocation": [
+      "Bangalore",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "linkedinProfile": "https://linkedin.com/in/vikas-sharma-data-engineer",
+    "githubProfile": "https://github.com/vibecoder",
+    "personalWebsite": "https://vikas-sharma-data.dev",
+    "createdAt": "2025-08-06T15:57:51.355Z",
+    "updatedAt": "2025-08-06T16:41:54.967Z",
+    "resumePath": "/api/users/1754495871355/resume/resume_1754495871355_data_engineer.pdf",
+    "preferredRoles": [
+      "Data Engineer",
+      "Senior Data Engineer",
+      "Lead Data Engineer",
+      "Data Architect",
+      "Big Data Engineer"
+    ],
+    "preferredIndustries": [
+      "Information Technology",
+      "Financial Services",
+      "E-commerce",
+      "Healthcare",
+      "Telecommunications"
+    ],
+    "jobPreferences": {
+      "jobTypes": [
+        "full-time",
+        "contract"
+      ]
+    },
+    "hobbies": [
+      "Data Science Competitions",
+      "Tech Meetups",
+      "Hiking",
+      "Photography",
+      "Reading Tech Books"
+    ],
+    "preferredLocations": [],
+    "jobType": ""
+  },
+  {
+    "id": 1755297386371,
+    "email": "test@new.com",
+    "password": "$2a$12$Nw7sBlvtyRJJHe.Fp.Jv8OYcoMwI3jI9m9I/uuC8UqU8wosPUfbs6",
+    "firstName": "TEST",
+    "lastName": "TEST",
+    "userType": "jobSeeker",
+    "createdAt": "2025-08-15T22:36:26.371Z",
+    "updatedAt": "2025-08-15T22:36:26.371Z"
+  }
+]

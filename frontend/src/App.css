@@ -1,0 +1,9 @@
+/* App.css - Root styles for routing */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.app {
+ 
+  font-family: "Inter", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

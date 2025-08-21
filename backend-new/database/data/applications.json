@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1754245973013,
+    "jobId": 1754233777036,
+    "userId": 1754221952490,
+    "coverLetter": "",
+    "status": "offered",
+    "appliedAt": "2025-08-03T18:32:53.013Z",
+    "statusMessage": "Congratulations! Job offer extended",
+    "lastUpdated": "2025-08-04T10:03:07.884Z"
+  },
+  {
+    "id": 1754246948982,
+    "jobId": 1754236283727,
+    "userId": 1754221952490,
+    "coverLetter": "",
+    "status": "rejected",
+    "appliedAt": "2025-08-03T18:49:08.982Z",
+    "statusMessage": "Thank you for your interest. We decided to move forward with other candidates.",
+    "lastUpdated": "2025-08-04T10:00:55.794Z"
+  },
+  {
+    "id": 1754293231793,
+    "userId": 1754221685824,
+    "jobId": 1754233777036,
+    "status": "rejected",
+    "appliedAt": "2025-08-04T07:40:31.793Z",
+    "statusMessage": "Thank you for your interest. We decided to move forward with other candidates.",
+    "lastUpdated": "2025-08-04T09:48:42.045Z"
+  },
+  {
+    "id": 1754301984469,
+    "userId": 1754301962484,
+    "jobId": 1754236283727,
+    "status": "pending",
+    "appliedAt": "2025-08-04T10:06:24.469Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754301988006,
+    "userId": 1754301962484,
+    "jobId": 1754233777036,
+    "status": "rejected",
+    "appliedAt": "2025-08-04T10:06:28.006Z",
+    "statusMessage": "Application has been rejected",
+    "lastUpdated": "2025-08-04T10:08:00.765Z"
+  },
+  {
+    "id": 1754429520722,
+    "userId": 1754222958146,
+    "jobId": 1754233777036,
+    "status": "pending",
+    "appliedAt": "2025-08-05T21:32:00.722Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754431595484,
+    "userId": 1754429708106,
+    "jobId": 1754233777036,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:06:35.484Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754433334201,
+    "userId": 1754433333910,
+    "jobId": 1754235816790,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:35:34.201Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754433350027,
+    "userId": 1754431727630,
+    "jobId": 1754235816790,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:35:50.027Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754433601189,
+    "userId": 1754433600886,
+    "jobId": 1754235816790,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:40:01.189Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754434054178,
+    "userId": 1754434053877,
+    "jobId": 1754235816790,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:47:34.178Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754434273908,
+    "userId": 1754431727630,
+    "jobId": 1754308799069,
+    "status": "pending",
+    "appliedAt": "2025-08-05T22:51:13.908Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754462978703,
+    "userId": 1754431727630,
+    "jobId": 1754236283727,
+    "status": "pending",
+    "appliedAt": "2025-08-06T06:49:38.703Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477602496,
+    "userId": 1754429708106,
+    "jobId": 1754400000003,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:53:22.496Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477604377,
+    "userId": 1754429708106,
+    "jobId": 1754400000004,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:53:24.377Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477639125,
+    "userId": 1754429729269,
+    "jobId": 1754400000003,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:53:59.125Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477640476,
+    "userId": 1754429729269,
+    "jobId": 1754400000004,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:54:00.476Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477642646,
+    "userId": 1754429729269,
+    "jobId": 1754400000006,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:54:02.646Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477673018,
+    "userId": 1754222958146,
+    "jobId": 1754400000003,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:54:33.018Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754477674175,
+    "userId": 1754222958146,
+    "jobId": 1754400000002,
+    "status": "pending",
+    "appliedAt": "2025-08-06T10:54:34.175Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754489644986,
+    "userId": 1754429729269,
+    "jobId": 1754235816790,
+    "status": "pending",
+    "appliedAt": "2025-08-06T14:14:04.986Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754495665942,
+    "userId": 1754429729269,
+    "jobId": 1754240001001,
+    "status": "pending",
+    "appliedAt": "2025-08-06T15:54:25.942Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754496070019,
+    "userId": 1754495871355,
+    "jobId": 1754500000005,
+    "status": "interview",
+    "appliedAt": "2025-08-06T16:01:10.019Z",
+    "statusMessage": "Interview process initiated",
+    "lastUpdated": "2025-08-06T16:04:35.335Z"
+  },
+  {
+    "id": 1754496073160,
+    "userId": 1754495871355,
+    "jobId": 1754240002002,
+    "status": "pending",
+    "appliedAt": "2025-08-06T16:01:13.160Z",
+    "statusMessage": "Application under review"
+  },
+  {
+    "id": 1754496354580,
+    "userId": 1754495871355,
+    "jobId": 1754240005005,
+    "status": "pending",
+    "appliedAt": "2025-08-06T16:05:54.580Z",
+    "statusMessage": "Application under review"
+  }
+]

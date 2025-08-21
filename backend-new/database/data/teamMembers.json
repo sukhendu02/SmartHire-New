@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1754304699238,
+    "name": "second user",
+    "email": "second@vibecoding.com",
+    "role": "manager",
+    "status": "active",
+    "companyId": 1754232612015,
+    "joinedAt": "2025-08-04T10:51:39.238Z",
+    "lastActive": "2025-08-04T15:00:00.000Z",
+    "isAdmin": false,
+    "isCreator": false,
+    "isOwner": false
+  },
+  {
+    "id": 1754238167556,
+    "name": "first user",
+    "email": "firstuser@vibecoding.com",
+    "role": "employee",
+    "status": "active",
+    "companyId": 1754232612015,
+    "joinedAt": "2025-08-03T16:22:47.556Z",
+    "lastActive": "2025-08-04T14:30:00.000Z",
+    "isAdmin": false,
+    "isCreator": false,
+    "isOwner": false
+  },
+  {
+    "id": 1754238337442,
+    "name": "test user5",
+    "email": "testuser5@vibecoding.com",
+    "role": "employee",
+    "status": "active",
+    "companyId": 1754232612015,
+    "joinedAt": "2025-08-03T16:25:37.442Z",
+    "lastActive": "2025-08-04T14:45:00.000Z",
+    "isAdmin": false,
+    "isCreator": false,
+    "isOwner": false
+  },
+  {
+    "id": 1754239194649,
+    "name": "test user",
+    "email": "user@global.com",
+    "role": "team-lead",
+    "status": "active",
+    "companyId": 1754239101370,
+    "joinedAt": "2025-08-03T16:39:54.649Z",
+    "lastActive": "2025-08-04T15:15:00.000Z",
+    "isAdmin": false,
+    "isCreator": false,
+    "isOwner": false
+  }
+]
