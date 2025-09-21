@@ -141,3 +141,5 @@ vite.config.ts.timestamp-*
 
 frontend/.env
 backend-new/.env
+frontend/node_modules
+backend-new/node_modules
