@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: {
-    outDir: '../backend-new/build',
-    emptyOutDir: true
+    // outDir: '../backend-new/build',
+    // emptyOutDir: true
   },
   base: '/'
 })
