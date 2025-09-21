@@ -225,7 +225,7 @@ const registerCompany = async (req, res) => {
 
     // Add logo path if file was uploaded
     if (req.file) {
-      const logoUrl = `http://localhost:5000/logos/${req.file.filename}`;
+      const logoUrl = `${process.env.BACKEND_URL}/logos/${req.file.filename}`;
       companyData.logoUrl = logoUrl;
       companyData.logoPath = req.file.path;
     }
