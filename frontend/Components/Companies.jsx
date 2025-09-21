@@ -62,7 +62,7 @@ const Companies = () => {
       setLoading(true);
       console.log('Fetching companies with token:', token ? 'Present' : 'Missing');
       
-      const response = await axios.get(`${import.meta.env.BASEURL}/api/companies`, {
+      const response = await axios.get(`${import.meta.env.VITE_BASEURL}/api/companies`, {
         headers: token ? { Authorization: `Bearer ${token}` } : {}
       });
       

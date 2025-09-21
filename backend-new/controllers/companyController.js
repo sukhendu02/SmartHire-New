@@ -424,7 +424,7 @@ const uploadCompanyLogo = async (req, res) => {
     }
 
     // Update company with new logo path
-    const logoUrl = `http://localhost:5000/logos/${req.file.filename}`;
+    const logoUrl = `${process.env.BACKEND_URL}/logos/${req.file.filename}`;
     const updatedCompany = {
       ...company,
       logoPath: req.file.path,
